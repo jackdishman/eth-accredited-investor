@@ -1,6 +1,6 @@
 <script setup lang="ts">
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
-import { ref } from "Vue";
+import { ref } from "vue";
 
 const searchValue = ref(``);
 
